@@ -1,0 +1,59 @@
+{
+  "profiles": {
+    "FEN": {
+      "name": "FEN",
+      "gameDir": "B:\\My Programs\\Minecraft\\.minecraft",
+      "useHopperCrashService": false
+    }
+  },
+  "selectedProfile": "FEN",
+  "clientToken": "8d0b53e8-f3cc-4cba-aae4-9c6286765030",
+  "authenticationDatabase": {
+    "1be44a2c63bb48fba973e5e58c76e16c": {
+      "displayName": "FEN",
+      "accessToken": "null",
+      "userid": "FEN",
+      "uuid": "1be44a2c-63bb-48fb-a973-e5e58c76e16c",
+      "username": "FEN"
+    },
+    "aa077473953f46fdb3dbd55baba7ae63": {
+      "displayName": "1",
+      "accessToken": "null",
+      "userid": "1",
+      "uuid": "aa077473-953f-46fd-b3db-d55baba7ae63",
+      "username": "1"
+    },
+    "8149670ea220467e9351c2a9c4e75e74": {
+      "displayName": "1",
+      "accessToken": "null",
+      "userid": "1",
+      "uuid": "8149670e-a220-467e-9351-c2a9c4e75e74",
+      "username": "1"
+    },
+    "8f36d0a37e394285a36164cefcd9641a": {
+      "displayName": "1",
+      "accessToken": "null",
+      "userid": "1",
+      "uuid": "8f36d0a3-7e39-4285-a361-64cefcd9641a",
+      "username": "1"
+    },
+    "eebbede9fc9a4ac4b12bf3a59cd1f27e": {
+      "displayName": "1",
+      "accessToken": "null",
+      "userid": "1",
+      "uuid": "eebbede9-fc9a-4ac4-b12b-f3a59cd1f27e",
+      "username": "1"
+    },
+    "FEN": {
+      "displayName": "FEN",
+      "userid": "FEN",
+      "uuid": "b8215480-1170-4eeb-acdf-f274eade4693",
+      "username": "FEN"
+    }
+  },
+  "selectedUser": "FEN",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16
+  }
+}
