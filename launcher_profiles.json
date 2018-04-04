@@ -3,6 +3,7 @@
     "FEN": {
       "name": "FEN",
       "gameDir": "B:\\My Programs\\Minecraft\\.minecraft",
+      "lastVersionId": "1.12.2",
       "useHopperCrashService": false
     }
   },
@@ -47,7 +48,7 @@
     "FEN": {
       "displayName": "FEN",
       "userid": "FEN",
-      "uuid": "b8215480-1170-4eeb-acdf-f274eade4693",
+      "uuid": "c81221e3-827a-4cfc-bde0-79773671195a",
       "username": "FEN"
     }
   },
