@@ -1,0 +1,224 @@
+[00:09:59] [Client thread/INFO]: Setting user: FEN
+[00:10:02] [Client thread/WARN]: Skipping bad option: lastServer:
+[00:10:02] [Client thread/WARN]: Skipping bad option: streamPreferredServer:
+[00:10:02] [Client thread/INFO]: LWJGL Version: 2.9.4
+[00:10:03] [Client thread/INFO]: Reloading ResourceManager: Default
+[00:10:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[00:10:04] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[00:10:04] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[00:10:04] [Thread-3/INFO]: OpenAL initialized.
+[00:10:05] [Sound Library Loader/INFO]: Sound engine started
+[00:10:11] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[00:10:14] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[00:10:18] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[00:10:32] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[00:10:32] [Server thread/INFO]: Generating keypair
+[00:10:33] [Server thread/INFO]: Loaded 488 advancements
+[00:10:33] [Server thread/INFO]: Preparing start region for level 0
+[00:10:34] [Server thread/INFO]: Preparing spawn area: 5%
+[00:10:35] [Server thread/INFO]: Preparing spawn area: 34%
+[00:10:36] [Server thread/INFO]: Preparing spawn area: 64%
+[00:10:37] [Server thread/INFO]: Preparing spawn area: 93%
+[00:10:37] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 31f2410d-7e7b-4b30-bbb0-81c13b79c2a1
+[00:10:38] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:10:49] [Server thread/INFO]: FEN[local:E:c0202008] logged in with entity id 220 at (1003.1231075218517, 35.0, 941.1088852365503)
+[00:10:49] [Server thread/INFO]: FEN joined the game
+[00:10:51] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 78d53be8-0f6f-4dce-9c9a-12749ddabe71
+[00:10:51] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ab55ceb6-87a8-4e33-ae92-43237bdf8586
+[00:10:51] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 4bbdd6b3-4e58-48a0-87c1-e2b33ccdde33
+[00:10:51] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 24d1f7ba-7269-4d2c-92db-f0bf7c66c49f
+[00:10:53] [Server thread/INFO]: FEN has made the advancement [Cover Me With Diamonds]
+[00:10:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4239ms behind, skipping 84 tick(s)
+[00:10:53] [Client thread/INFO]: [CHAT] FEN has made the advancement [Cover Me With Diamonds]
+[00:10:54] [Server thread/INFO]: Saving and pausing game...
+[00:10:54] [Client thread/INFO]: Loaded 21 advancements
+[00:10:54] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:10:54] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:10:54] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:11:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2566ms behind, skipping 51 tick(s)
+[00:11:09] [Server thread/INFO]: [FEN: Teleported FEN to 2.5, 3.0, 4.5]
+[00:11:10] [Client thread/INFO]: [CHAT] Teleported FEN to 2.5, 3.0, 4.5
+[00:11:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2640ms behind, skipping 52 tick(s)
+[00:11:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 31f2410d-7e7b-4b30-bbb0-81c13b79c2a1
+[00:12:28] [Server thread/INFO]: [FEN: Teleported FEN to -191.5, 20.0, -1211.5]
+[00:12:28] [Client thread/INFO]: [CHAT] Teleported FEN to -191.5, 20.0, -1211.5
+[00:12:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3333ms behind, skipping 66 tick(s)
+[00:13:14] [Server thread/INFO]: [FEN: Teleported FEN to 22.5, 2.0, 1997.5]
+[00:13:14] [Client thread/INFO]: [CHAT] Teleported FEN to 22.5, 2.0, 1997.5
+[00:13:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
+[00:15:19] [Client thread/INFO]: Loaded 22 advancements
+[00:16:56] [Server thread/INFO]: Saving and pausing game...
+[00:16:56] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:16:56] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:16:56] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:17:09] [Server thread/INFO]: Saving and pausing game...
+[00:17:09] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:17:09] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:17:09] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:17:22] [Client thread/INFO]: Loaded 23 advancements
+[00:17:39] [Server thread/INFO]: Saving and pausing game...
+[00:17:39] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:17:39] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:17:39] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:21:11] [Server thread/INFO]: Saving and pausing game...
+[00:21:11] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:21:11] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:21:11] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:21:32] [Server thread/INFO]: Saving and pausing game...
+[00:21:32] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:21:32] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:21:32] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:23:40] [Server thread/INFO]: Saving and pausing game...
+[00:23:40] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:23:40] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:23:40] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:23:42] [Server thread/INFO]: Saving and pausing game...
+[00:23:42] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:23:42] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:23:42] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:23:54] [Server thread/INFO]: Saving and pausing game...
+[00:23:54] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:23:54] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:23:54] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:25:37] [Server thread/INFO]: Saving and pausing game...
+[00:25:37] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:25:37] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:25:37] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:27:50] [Server thread/INFO]: Saving and pausing game...
+[00:27:50] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:27:50] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:27:50] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:27:54] [Server thread/INFO]: Saving and pausing game...
+[00:27:54] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:27:54] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:27:54] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:27:56] [Server thread/INFO]: Saving and pausing game...
+[00:27:56] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:27:56] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:27:56] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:28:06] [Server thread/INFO]: Saving and pausing game...
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:28:21] [Server thread/INFO]: Saving and pausing game...
+[00:28:21] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:28:22] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:28:22] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:28:40] [Server thread/INFO]: Saving and pausing game...
+[00:28:40] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:28:40] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:28:40] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:29:01] [Client thread/INFO]: Loaded 29 advancements
+[00:31:06] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[00:31:12] [Server thread/INFO]: [FEN: Teleported FEN to 2.5, 3.0, 4.5]
+[00:31:12] [Client thread/INFO]: [CHAT] Teleported FEN to 2.5, 3.0, 4.5
+[00:31:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3064ms behind, skipping 61 tick(s)
+[00:31:35] [Server thread/INFO]: [FEN: Teleported FEN to -147.5, 16.0, -288.5]
+[00:31:35] [Client thread/INFO]: [CHAT] Teleported FEN to -147.5, 16.0, -288.5
+[00:31:37] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 520f207b-1abb-4295-9eee-08fdad1a6c34
+[00:31:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
+[00:32:09] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 5d66126f-d18e-469f-9fde-07c8905da28f
+[00:33:00] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.jump
+[00:33:01] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.squish
+[00:33:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:33:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:33:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID ac38cf15-4906-4b1d-a5e1-f645f85b5338
+[00:33:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 6069b3b6-3bc9-455d-a80b-97babb3471b8
+[00:33:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 98f1ffa2-fc2e-4b6d-a1b5-4583906434f4
+[00:33:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID bacfca4c-aecd-496f-949f-77d4ac15d208
+[00:34:20] [Server thread/INFO]: [FEN: Teleported FEN to 2.5, 3.0, 4.5]
+[00:34:20] [Client thread/INFO]: [CHAT] Teleported FEN to 2.5, 3.0, 4.5
+[00:34:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:34:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:34:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3262ms behind, skipping 65 tick(s)
+[00:34:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:34:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:34:43] [Server thread/INFO]: [FEN: Teleported FEN to 1250.5, 21.0, 1000.5]
+[00:34:43] [Client thread/INFO]: [CHAT] Teleported FEN to 1250.5, 21.0, 1000.5
+[00:34:44] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 31f2410d-7e7b-4b30-bbb0-81c13b79c2a1
+[00:34:44] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 6b105069-abde-4ad7-a347-7890d6b99a0f
+[00:34:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3120ms behind, skipping 62 tick(s)
+[00:35:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:35:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e5110ae4-6a0f-44bb-84cc-a093643dfbd5
+[00:35:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 31f2410d-7e7b-4b30-bbb0-81c13b79c2a1
+[00:35:38] [Server thread/INFO]: [FEN: Teleported FEN to 1.5, 1.0, 1.5]
+[00:35:38] [Client thread/INFO]: [CHAT] Teleported FEN to 1.5, 1.0, 1.5
+[00:35:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3000ms behind, skipping 60 tick(s)
+[00:35:57] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 31f2410d-7e7b-4b30-bbb0-81c13b79c2a1
+[00:35:57] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 6b105069-abde-4ad7-a347-7890d6b99a0f
+[00:36:33] [Server thread/INFO]: [FEN: Teleported FEN to -682.5, 21.0, -892.5]
+[00:36:33] [Client thread/INFO]: [CHAT] Teleported FEN to -682.5, 21.0, -892.5
+[00:36:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 7d3c9b12-6121-4b8b-bfc7-d2ba42f7a13e
+[00:36:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e23a9f55-d111-457d-aa5d-e580315ce941
+[00:36:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID eff1b192-f9e4-49db-b0fd-0dde1e7d6c57
+[00:36:35] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 83af3a2b-b99b-45c4-80fc-5339d506dd56
+[00:36:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 48274613-b488-4e1f-b9d6-91d838ab2ee3
+[00:36:35] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 61738ade-7abd-439c-b9da-544859010e28
+[00:36:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3831ms behind, skipping 76 tick(s)
+[00:37:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 7d3c9b12-6121-4b8b-bfc7-d2ba42f7a13e
+[00:37:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e23a9f55-d111-457d-aa5d-e580315ce941
+[00:37:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID eff1b192-f9e4-49db-b0fd-0dde1e7d6c57
+[00:37:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 48274613-b488-4e1f-b9d6-91d838ab2ee3
+[00:37:52] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 5d66126f-d18e-469f-9fde-07c8905da28f
+[00:38:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 7d3c9b12-6121-4b8b-bfc7-d2ba42f7a13e
+[00:38:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e23a9f55-d111-457d-aa5d-e580315ce941
+[00:38:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID eff1b192-f9e4-49db-b0fd-0dde1e7d6c57
+[00:38:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 48274613-b488-4e1f-b9d6-91d838ab2ee3
+[00:40:07] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 48274613-b488-4e1f-b9d6-91d838ab2ee3
+[00:40:07] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 61738ade-7abd-439c-b9da-544859010e28
+[00:40:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e23a9f55-d111-457d-aa5d-e580315ce941
+[00:40:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID eff1b192-f9e4-49db-b0fd-0dde1e7d6c57
+[00:40:09] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 83af3a2b-b99b-45c4-80fc-5339d506dd56
+[00:40:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 7d3c9b12-6121-4b8b-bfc7-d2ba42f7a13e
+[00:40:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2257ms behind, skipping 45 tick(s)
+[00:40:40] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 7d3c9b12-6121-4b8b-bfc7-d2ba42f7a13e
+[00:40:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e23a9f55-d111-457d-aa5d-e580315ce941
+[00:40:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID eff1b192-f9e4-49db-b0fd-0dde1e7d6c57
+[00:40:44] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 48274613-b488-4e1f-b9d6-91d838ab2ee3
+[00:41:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e23a9f55-d111-457d-aa5d-e580315ce941
+[00:41:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 48274613-b488-4e1f-b9d6-91d838ab2ee3
+[00:41:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID eff1b192-f9e4-49db-b0fd-0dde1e7d6c57
+[00:41:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 7d3c9b12-6121-4b8b-bfc7-d2ba42f7a13e
+[00:41:19] [Server thread/INFO]: FEN has made the advancement [Monster Hunter]
+[00:41:19] [Client thread/INFO]: [CHAT] FEN has made the advancement [Monster Hunter]
+[00:41:19] [Client thread/INFO]: Loaded 39 advancements
+[00:41:39] [Client thread/INFO]: Loaded 39 advancements
+[00:41:39] [Client thread/INFO]: Loaded 40 advancements
+[00:41:49] [Server thread/INFO]: [FEN: Teleported FEN to 2.5, 3.0, 4.5]
+[00:41:49] [Client thread/INFO]: [CHAT] Teleported FEN to 2.5, 3.0, 4.5
+[00:41:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3144ms behind, skipping 62 tick(s)
+[00:42:16] [Server thread/INFO]: FEN has made the advancement [Sweet dreams]
+[00:42:16] [Client thread/INFO]: [CHAT] FEN has made the advancement [Sweet dreams]
+[00:42:16] [Client thread/INFO]: Loaded 40 advancements
+[00:42:46] [Client thread/INFO]: Loaded 44 advancements
+[00:43:21] [Server thread/INFO]: FEN has reached the goal [Beaconator]
+[00:43:21] [Server thread/INFO]: FEN has made the advancement [Bring Home the Beacon]
+[00:43:21] [Client thread/INFO]: [CHAT] FEN has reached the goal [Beaconator]
+[00:43:21] [Client thread/INFO]: [CHAT] FEN has made the advancement [Bring Home the Beacon]
+[00:43:21] [Client thread/INFO]: Loaded 50 advancements
+[00:44:18] [Server thread/INFO]: [FEN: Teleported FEN to -188.5, 2.0, -285.5]
+[00:44:18] [Client thread/INFO]: [CHAT] Teleported FEN to -188.5, 2.0, -285.5
+[00:44:20] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 520f207b-1abb-4295-9eee-08fdad1a6c34
+[00:44:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2626ms behind, skipping 52 tick(s)
+[00:44:47] [Server thread/INFO]: [FEN: Teleported FEN to 22.5, 2.0, 1997.5]
+[00:44:47] [Client thread/INFO]: [CHAT] Teleported FEN to 22.5, 2.0, 1997.5
+[00:51:32] [Client thread/INFO]: Loaded 50 advancements
+[00:53:36] [Server thread/INFO]: [FEN: Teleported FEN to 2.5, 3.0, 4.5]
+[00:53:36] [Client thread/INFO]: [CHAT] Teleported FEN to 2.5, 3.0, 4.5
+[00:53:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3036ms behind, skipping 60 tick(s)
+[00:54:14] [Server thread/INFO]: Saving and pausing game...
+[00:54:14] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:54:14] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:54:14] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:54:16] [Server thread/INFO]: Stopping server
+[00:54:16] [Server thread/INFO]: Saving players
+[00:54:16] [Server thread/INFO]: FEN lost connection: Disconnected
+[00:54:16] [Server thread/INFO]: FEN left the game
+[00:54:16] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:54:16] [Server thread/INFO]: Saving worlds
+[00:54:16] [Server thread/INFO]: Saving chunks for level 'FEN'/overworld
+[00:54:16] [Server thread/INFO]: Saving chunks for level 'FEN'/the_nether
+[00:54:16] [Server thread/INFO]: Saving chunks for level 'FEN'/the_end
+[00:54:19] [Client thread/INFO]: Stopping!
+[00:54:19] [Client thread/INFO]: SoundSystem shutting down...
+[00:54:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
